@@ -1,0 +1,2 @@
+# CubTrade-database
+データベース
